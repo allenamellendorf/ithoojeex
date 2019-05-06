@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeghahcha.odysseustrio.com/sitemap.xml
